@@ -1,11 +1,14 @@
 # MyPortfolio
 
-My portfolio repository contains small Java Script projects.
+My portfolio repository contains.
 
-4_Functions 
+1) Responsive photo gallery - https://ivanovaolgan.github.io/AnimalGallery/#
 
-5_This
+2) Small Java Script projects:
 
-6_Collection
+    4_Functions;
 
-Each folder consists of index.js, checks.js and readme files. Read the task description in readme document. Index.js contains the task fulfillment. Checks.js contains tests to run and check if the fulfillment is right.
+    5_This;
+
+    6_Collection.
+
