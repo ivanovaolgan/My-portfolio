@@ -1,6 +1,6 @@
 # MyPortfolio
 
-My portfolio repository contains small projects.
+My portfolio repository contains small Java Script projects.
 
 4_Functions 
 
