@@ -1,10 +1,10 @@
-// Встроенный в Node.JS модуль для проверок
+// Node.JS Assert module for testing
 var assert = require('assert');
 
-// Подключаем свою функцию
+// Add our function
 var lib = require('./index.js');
 
-// Коллекция данных
+// Collection
 var friends = [
     {
         name: 'Сэм',
