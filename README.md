@@ -11,7 +11,7 @@ My portfolio repository contains.
 
 2)  Form Validation. 
 
-Work with DOM elements, methods, events - search, access, add/remove class, delegation event model - https://ivanovaolgan.github.io/Form-Validation/
+    Work with DOM elements, methods, events - search, access, add/remove class, delegation event model - https://ivanovaolgan.github.io/Form-Validation/
 
 3) Responsive photo gallery - https://ivanovaolgan.github.io/AnimalGallery/#
 
