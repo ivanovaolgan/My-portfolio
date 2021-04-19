@@ -3,7 +3,9 @@
 My portfolio repository contains.
 
 
-1) Memory game with emoji(in progress) - https://ivanovaolgan.github.io/Memoji/
+1) Memory game with emoji - 
+    a) Play here - https://ivanovaolgan.github.io/Memoji/
+    b) See code here - https://github.com/ivanovaolgan/Memoji
 
 2)  Form Validation. 
 Work with DOM elements, methods, events - search, access, add/remove class, delegation event model - https://ivanovaolgan.github.io/Form-Validation/
