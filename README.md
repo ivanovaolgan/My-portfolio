@@ -26,11 +26,4 @@ My portfolio repository contains.
     b) See code here - https://github.com/ivanovaolgan/AnimalGallery
     
 
-4) Small Java Script projects:
-
-    4_Functions;
-
-    5_This;
-
-    6_Collection.
 
