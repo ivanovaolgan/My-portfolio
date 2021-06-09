@@ -1,6 +1,6 @@
-# MyPortfolio
+# MyPortfolio page - https://ivanovaolgan.github.io/My-portfolio/
 
-My portfolio repository contains.
+My portfolio contains next projects:
 
 
 1) Memory game with emoji - 
