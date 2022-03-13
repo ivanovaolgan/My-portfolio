@@ -1,6 +1,6 @@
 # MyPortfolio page - https://ivanovaolgan.github.io/My-portfolio/
 
-My portfolio contains next projects:
+My portfolio contains next projects:   
 
 
 1) ToDo List - 
