@@ -5,9 +5,9 @@ My portfolio contains next projects:
 
 1) ToDo List - 
 
-    a) Deployed project - https://scenic-zion-41698.herokuapp.com/
+    a) Deployed project - 
     
-    b) See code here - 
+    b) See code here - https://github.com/ivanovaolgan/todoList
 
 2) Memory game with emoji - 
 
